@@ -1,0 +1,10 @@
+*************[Train Epoch Average Scores by Best Acc]*************
+acc : 0.9508928571428571 ([epoch]143)
+auc : 0.950892857142857 ([epoch]143)
+pre : 0.9508928571428571 ([epoch]143)
+rec : 0.9508928571428571 ([epoch]143)
+fscore : 0.9508928571428571 ([epoch]143)
+pre_weighted : 0.9509288049111058 ([epoch]143)
+rec_weighted : 0.9508928571428571 ([epoch]143)
+fscore_weighted : 0.9508918784255107 ([epoch]143)
+hair acc : 0.9313725490196079 ([epoch]143)

@@ -1,0 +1,11 @@
+*************[Test Scores by Best Val Acc]*************
+acc : 0.6333333333333333 ([epoch]91)
+auc : 0.6333333333333333 ([epoch]91)
+pre : 0.6333333333333333 ([epoch]91)
+rec : 0.6333333333333333 ([epoch]91)
+fscore : 0.6333333333333333 ([epoch]91)
+pre_weighted : 0.6339285714285715 ([epoch]91)
+rec_weighted : 0.6333333333333333 ([epoch]91)
+fscore_weighted : 0.6329254727474972 ([epoch]91)
+hair acc : 0.6666666666666666 ([epoch]91)
+

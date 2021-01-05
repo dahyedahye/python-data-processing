@@ -1,0 +1,13 @@
+*************[Val Epoch Average Scores by Best Acc]*************
+acc : 1.0 ([epoch]144)
+auc : 1.0 ([epoch]144)
+pre : 1.0 ([epoch]144)
+rec : 1.0 ([epoch]144)
+fscore : 1.0 ([epoch]144)
+pre_weighted : 1.0 ([epoch]144)
+rec_weighted : 1.0 ([epoch]144)
+fscore_weighted : 1.0 ([epoch]144)
+hair acc : 1.0 ([epoch]144)
+d : 0.9444444444444444 ([epoch]82)
+fscore_weighted : 0.9442724458204333 ([epoch]82)
+hair acc : 0.8333333333333334 ([epoch]82)
